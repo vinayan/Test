@@ -1,17 +1,17 @@
 [
   {
-    "Name": "BP",
+    "letter": "BP",
     "Weight": 10,
-    "Height": 25
+    "frequency": 25
   },
   {
-    "Name": "Shell",
+    "letter": "Shell",
     "Weight": 20,
-    "Height": 25
+    "frequency": 25
   },
   {
-    "Name": "BP",
+    "letter": "BP",
     "Weight": 30,
-    "Height": 25
+    "frequency": 25
   }
 ]
